@@ -305,7 +305,8 @@
       "enum": [
         "identical",
         "unused",
-        "opaque"
+        "opaque",
+        "unexported"
       ]
     },
     "tagliatelle-cases": {
